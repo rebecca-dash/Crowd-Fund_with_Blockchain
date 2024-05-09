@@ -36,7 +36,7 @@ How to install Ganache:  [Ganache](https://trufflesuite.com/docs/ganache/quickst
 # Code Footnotes
 
 Deploy and Deposit ETH after adding account into MetaMask
-(![image](https://user-images.githubusercontent.com/96098671/171988185-9ae3803f-d82d-4b0d-9266-ee92e8fcf238.png)
+![image](https://user-images.githubusercontent.com/96098671/171988185-9ae3803f-d82d-4b0d-9266-ee92e8fcf238.png)
 
 Gas Fee
 ![image](https://user-images.githubusercontent.com/96098671/171988208-dde9d4c9-b267-4132-9977-9411269ca320.png)

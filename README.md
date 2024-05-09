@@ -46,4 +46,4 @@ Adding more contracts to the blockchain
 
 
 # Contributors
-[Rebecca_Fintech_Student_Email](beccabeastly@gmail.com)
+[Rebecca_Fintech_Student_Email](rebeccatech.dash@gmail.com)
